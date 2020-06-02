@@ -1,0 +1,10 @@
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\PRATICA3\PRATICA3\bin\Debug\PRATICA3.exe.config
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\PRATICA3\PRATICA3\bin\Debug\PRATICA3.exe
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\PRATICA3\PRATICA3\bin\Debug\PRATICA3.pdb
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\PRATICA3\PRATICA3\obj\Debug\PRATICA3.csprojAssemblyReference.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\PRATICA3\PRATICA3\obj\Debug\PRATICA3.Form1.resources
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\PRATICA3\PRATICA3\obj\Debug\PRATICA3.Properties.Resources.resources
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\PRATICA3\PRATICA3\obj\Debug\PRATICA3.csproj.GenerateResource.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\PRATICA3\PRATICA3\obj\Debug\PRATICA3.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\PRATICA3\PRATICA3\obj\Debug\PRATICA3.exe
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\PRATICA3\PRATICA3\obj\Debug\PRATICA3.pdb
