@@ -1,0 +1,10 @@
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\circulo\circulo\bin\Debug\circulo.exe.config
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\circulo\circulo\bin\Debug\circulo.exe
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\circulo\circulo\bin\Debug\circulo.pdb
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\circulo\circulo\obj\Debug\circulo.csprojAssemblyReference.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\circulo\circulo\obj\Debug\circulo.Form1.resources
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\circulo\circulo\obj\Debug\circulo.Properties.Resources.resources
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\circulo\circulo\obj\Debug\circulo.csproj.GenerateResource.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\circulo\circulo\obj\Debug\circulo.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\circulo\circulo\obj\Debug\circulo.exe
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\circulo\circulo\obj\Debug\circulo.pdb
