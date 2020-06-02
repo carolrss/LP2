@@ -1,0 +1,10 @@
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\expratico2\expratico2\obj\Debug\expratico2.csprojAssemblyReference.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\expratico2\expratico2\obj\Debug\expratico2.Form1.resources
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\expratico2\expratico2\obj\Debug\expratico2.Properties.Resources.resources
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\expratico2\expratico2\obj\Debug\expratico2.csproj.GenerateResource.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\expratico2\expratico2\obj\Debug\expratico2.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\expratico2\expratico2\bin\Debug\expratico2.exe.config
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\expratico2\expratico2\bin\Debug\expratico2.exe
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\expratico2\expratico2\bin\Debug\expratico2.pdb
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\expratico2\expratico2\obj\Debug\expratico2.exe
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\expratico2\expratico2\obj\Debug\expratico2.pdb
